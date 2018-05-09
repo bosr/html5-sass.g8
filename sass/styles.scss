@@ -1,5 +1,10 @@
-html {
-  background-color: white;
+// base.scss
+
+@import 'reset';
+
+body {
+  font: 100% "Helvetica Neue", "Helvetica", sans-serif;
+  background-color: #efefef;
 }
 
 p.important {
